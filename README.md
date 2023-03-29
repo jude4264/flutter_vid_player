@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+image_picker, video_player,
+
+selecting and playing videos in the gallery 
+sliderBar
+function to forward 10s
+function to rewind the video
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
